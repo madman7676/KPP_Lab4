@@ -73,9 +73,18 @@ body{
 .all{
 	font-weight: bold;
 	font-size: 20;
-	position:absolute;
+	position:center;
 	left:30px;
-	top:410px;
+	text-align: center;
+	top:450px;
+	color:black;
+}
+.gelary{
+	font-weight: bold;
+	font-size: 20;
+	position:center;
+	left:90px;
+	top:450px;
 	color:black;
 }
 .alll{
